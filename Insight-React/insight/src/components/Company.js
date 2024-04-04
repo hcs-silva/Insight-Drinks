@@ -6,7 +6,7 @@ const Company = () => {
 return ( 
     <div>
         <img src="./world.jpeg" alt="" className="icon"/>
-        <h1 onClick = {handleClick}>A Nossa Empresa</h1>        
+        <button onClick = {handleClick}>A Nossa Empresa</button>        
     </div>
 );
 

@@ -6,7 +6,7 @@ const Servicos = () => {
 return ( 
     <div>
         <img src="./Serviços.jpeg" alt="" className="icon"/>
-        <h1 onClick = {handleClick}>Os Nossos Serviços</h1>        
+        <button onClick = {handleClick}>Os Nossos Serviços</button>        
     </div>
 );
 
