@@ -4,9 +4,9 @@ const World = () => {
       };
 
 return ( 
-    <div>
+    <div className="card">
         <img src="./Insight.jpeg" alt="" className="icon"/>
-        <h1 onClick = {handleClick}>Insight Drinks World</h1>        
+        <button onClick = {handleClick}>Insight Drinks World</button>        
     </div>
 );
 

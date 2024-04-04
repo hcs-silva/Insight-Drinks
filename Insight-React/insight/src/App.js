@@ -6,6 +6,15 @@ import Company from "./components/Company";
 import Servicos from "./components/Servicos";
 import Team from "./components/Team";
 
+
+const pages = [
+  {id: 1, name: "home"},
+  {id: 2, name: "world"},
+  {id: 3, name: "company"},
+  {id: 4, name: "serviços"},
+  {id: 5, name: "team"},
+  ]
+
 function App() {
   return (
     <div className="App">
