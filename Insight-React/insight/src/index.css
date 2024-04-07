@@ -32,3 +32,9 @@ button:hover {
 .icon {
   margin-bottom: 50px;
 }
+
+
+.card .button {
+  height: 40px;
+  width: 330px;
+}

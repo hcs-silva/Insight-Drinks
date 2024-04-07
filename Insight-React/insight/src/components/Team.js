@@ -6,7 +6,7 @@ const Team = () => {
 return ( 
     <div className="card">
         <img src="./Team.jpeg" alt="" className="icon"/>
-        <button onClick = {handleClick}>A Nossa Equipa</button>        
+        <button className="button" onClick = {handleClick}>A Nossa Equipa</button>        
     </div>
 );
 

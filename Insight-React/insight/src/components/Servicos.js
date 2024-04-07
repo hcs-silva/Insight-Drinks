@@ -4,9 +4,9 @@ const Servicos = () => {
       };
       
 return ( 
-    <div>
+    <div className="card">
         <img src="./Serviços.jpeg" alt="" className="icon"/>
-        <button onClick = {handleClick}>Os Nossos Serviços</button>        
+        <button className="button" onClick = {handleClick}>Os Nossos Serviços</button>        
     </div>
 );
 

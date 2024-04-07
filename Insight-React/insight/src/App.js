@@ -1,6 +1,8 @@
 //imports
 import React from "react";
 import "./App.css";
+
+import Home from "./components/Home"
 import World from "./components/World";
 import Company from "./components/Company";
 import Servicos from "./components/Servicos";

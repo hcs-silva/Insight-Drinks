@@ -6,7 +6,7 @@ const World = () => {
 return ( 
     <div className="card">
         <img src="./Insight.jpeg" alt="" className="icon"/>
-        <button onClick = {handleClick}>Insight Drinks World</button>        
+        <button className="button" onClick = {handleClick}>Insight Drinks World</button>        
     </div>
 );
 

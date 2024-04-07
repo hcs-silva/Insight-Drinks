@@ -4,9 +4,9 @@ const Company = () => {
       };
       
 return ( 
-    <div>
+    <div className="card">
         <img src="./world.jpeg" alt="" className="icon"/>
-        <button onClick = {handleClick}>A Nossa Empresa</button>        
+        <button className="button" onClick = {handleClick}>A Nossa Empresa</button>        
     </div>
 );
 
