@@ -5,7 +5,7 @@ function App() {
 
   const [pages, setPages] = useState("home");
 
-  const pages = [
+  const nomes = [
     { id: 1, name: "home" },
     { id: 2, name: "world" },
     { id: 3, name: "company" },
