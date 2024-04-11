@@ -1,6 +1,6 @@
 const Servicos = () => {
   return (
-    <div className="world" key="servicos">
+    <div className="world" key="servicos" >
       <p className="text">Texto a Definir</p>
     </div>
   );
