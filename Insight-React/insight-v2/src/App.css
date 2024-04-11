@@ -104,3 +104,7 @@
   .logo {
     border-radius: 50%;
   }
+
+.text {
+  background-color: darkgreen;
+}
